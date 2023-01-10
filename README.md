@@ -11,7 +11,7 @@ Se implementaron los siguientes conocimientos adquiridos:
 - Utilizacion de etiquetas de HTML.
 - Colocar los estitos en CSS.
 - Implementacion del Flexbox en el layout.
-- Visualizacion de dos medias queries de Tablet y Celular.
+- Visualizacion de dos media queries de Tablet y Celular.
 
 ![image](https://user-images.githubusercontent.com/116467058/211621418-5ff81720-e1bc-44ad-998c-3a99c1f75d7b.png)
 
