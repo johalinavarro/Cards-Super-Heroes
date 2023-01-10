@@ -13,5 +13,5 @@ Se implementaron los siguientes conocimientos adquiridos:
 - Implementacion del Flexbox en el layout.
 - Visualizacion de dos medias queries de Tablet y Celular.
 
-![image](https://user-images.githubusercontent.com/116467058/211621170-7a3bc088-7b9c-4a17-a3f0-762bb258a659.png)
+![image](https://user-images.githubusercontent.com/116467058/211621418-5ff81720-e1bc-44ad-998c-3a99c1f75d7b.png)
 
